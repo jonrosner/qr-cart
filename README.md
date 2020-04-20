@@ -12,6 +12,10 @@ To achieve this, we present QR-Cart. A full fletched reservation & ticketing sys
 
 ![alt text](images/system.jpg "The High Level System Design of QR-Cart")
 
+## Pitch
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wHf8OxEpl3A/0.jpg)](https://youtu.be/wHf8OxEpl3A?t=17394)
+
 ## Demo
 
 A demo of the website is available at http://andromeda.goma-cms.org:1338/
