@@ -30,5 +30,5 @@ The three components (backend, frontend, mobile) have their respective subfolder
 
 - Mobile: [Daniel Gruber](https://www.linkedin.com/in/daniel-gruber-6758a2139/)
 - System & Design: [Johannes Schleicher](https://www.linkedin.com/in/johannes-schleicher/)
-- Frontend: [Gilles Tanson](https://www.linkedin.com/in/gilles-tanson-638b46113/)
+- Frontend: [Gilles Tanson](https://github.com/Lugitan)
 - Backend: [Jonathan Rösner](https://github.com/jonrosner)
