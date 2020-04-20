@@ -2,7 +2,7 @@
 
 Winner of hackaTUM C0dev1d19 (COVID19-Edition)
 
-![alt text](images/logo.png "QR-Cart")
+![alt text](images/logo.jpg "QR-Cart")
 
 ## Idea
 
