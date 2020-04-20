@@ -14,7 +14,7 @@ To achieve this, we present QR-Cart. A full fletched reservation & ticketing sys
 
 ## Pitch
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wHf8OxEpl3A/0.jpg)](https://youtu.be/wHf8OxEpl3A?t=17394)
+https://youtu.be/wHf8OxEpl3A?t=17394
 
 ## Demo
 
