@@ -6,6 +6,7 @@ This repository contains all code for the backend of our hackatum project.
 
 - Java >= 1.8
 - mvn
+- mariaDb
 
 ## Development
 
