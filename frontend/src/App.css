@@ -1,0 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
+#page-content-wrapper {
+  min-width: 100%;
+}

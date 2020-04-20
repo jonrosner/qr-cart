@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd762d8e-62a2-412f-94a6-26d9f288cecd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hackatum/server/EmployeeRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hackatum/server/EmployeeRoute.java" afterDir="false" />
+>>>>>>> WIp
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hackatum/server/ReservationRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hackatum/server/ReservationRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hackatum/server/StoreRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hackatum/server/StoreRoute.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1afO5Ww3yiC3tkVJRmtbeRh2nk8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="java.sql.Driver&#10;h2" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.63908046" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.hackatum.messages" />
+      <recent name="org.hackatum.server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="HACKATUM_JDBC_URL" value="jdbc:mysql://localhost:3307/test" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="org.hackatum.main.Main" />
+      <module name="TUM_Supermarket_Backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hackatum.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd762d8e-62a2-412f-94a6-26d9f288cecd" name="Default Changelist" comment="" />
+      <created>1587122998307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587122998307</updated>
+      <workItem from="1587122999541" duration="9081000" />
+<<<<<<< HEAD
+      <workItem from="1587137785890" duration="45088000" />
+      <workItem from="1587276610955" duration="2929000" />
+=======
+      <workItem from="1587137785890" duration="47224000" />
+>>>>>>> WIp
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+<<<<<<< HEAD
+    <state x="966" y="289" key="#Dockerfile" timestamp="1587276642393">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="966" y="289" key="#Dockerfile/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1587276642393" />
+    <state x="508" y="227" width="906" height="625" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587278483409">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="508" y="227" width="906" height="625" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1587278483409" />
+    <state x="619" y="251" width="987" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2048.1125@0.27.2048.1125" timestamp="1587209888109" />
+=======
+    <state x="619" y="251" width="987" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587234916587">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="619" y="251" width="987" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2048.1125@0.27.2048.1125" timestamp="1587234916587" />
+>>>>>>> WIp
+    <state x="320" y="308" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1587148111944">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="320" y="308" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.2048.1125@0.27.2048.1125" timestamp="1587148111944" />
+    <state x="462" y="515" width="1124" height="156" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587196516388">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="462" y="515" width="1124" height="156" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.2048.1125@0.27.2048.1125" timestamp="1587196516388" />
+    <state x="745" y="408" width="547" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587196511964">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="745" y="408" width="547" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.2048.1125@0.27.2048.1125" timestamp="1587196511964" />
+    <state x="757" y="337" width="524" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587155968150">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="757" y="337" width="524" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.2048.1125@0.27.2048.1125" timestamp="1587155968150" />
+    <state x="727" y="393" width="583" height="325" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587206888397">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="727" y="393" width="583" height="325" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.2048.1125@0.27.2048.1125" timestamp="1587206888397" />
+    <state width="620" height="602" key="DebuggerActiveHint" timestamp="1587235748501">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="620" height="602" key="DebuggerActiveHint/0.27.2048.1125@0.27.2048.1125" timestamp="1587235748501" />
+    <state x="850" y="297" width="515" height="598" key="EnvironmentVariablesDialog" timestamp="1587205797492">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="850" y="297" width="515" height="598" key="EnvironmentVariablesDialog/0.27.2048.1125@0.27.2048.1125" timestamp="1587205797492" />
+<<<<<<< HEAD
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1587278525172">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587278525172" />
+    <state width="1998" height="350" key="GridCell.Tab.0.bottom/0.27.2048.1125@0.27.2048.1125" timestamp="1587233976342" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1587278525171">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587278525171" />
+    <state width="1998" height="350" key="GridCell.Tab.0.center/0.27.2048.1125@0.27.2048.1125" timestamp="1587233976340" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1587278525171">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587278525171" />
+    <state width="1998" height="350" key="GridCell.Tab.0.left/0.27.2048.1125@0.27.2048.1125" timestamp="1587233976339" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1587278525172">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587278525172" />
+    <state width="1998" height="350" key="GridCell.Tab.0.right/0.27.2048.1125@0.27.2048.1125" timestamp="1587233976341" />
+    <state width="1998" height="366" key="GridCell.Tab.1.bottom" timestamp="1587213118570">
+=======
+    <state width="1998" height="366" key="GridCell.Tab.0.bottom" timestamp="1587235881028">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="1998" height="366" key="GridCell.Tab.0.bottom/0.27.2048.1125@0.27.2048.1125" timestamp="1587235881028" />
+    <state width="1998" height="366" key="GridCell.Tab.0.center" timestamp="1587235881028">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="1998" height="366" key="GridCell.Tab.0.center/0.27.2048.1125@0.27.2048.1125" timestamp="1587235881028" />
+    <state width="1998" height="366" key="GridCell.Tab.0.left" timestamp="1587235881027">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="1998" height="366" key="GridCell.Tab.0.left/0.27.2048.1125@0.27.2048.1125" timestamp="1587235881027" />
+    <state width="1998" height="366" key="GridCell.Tab.0.right" timestamp="1587235881028">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="1998" height="366" key="GridCell.Tab.0.right/0.27.2048.1125@0.27.2048.1125" timestamp="1587235881028" />
+    <state width="1998" height="366" key="GridCell.Tab.1.bottom" timestamp="1587235881029">
+>>>>>>> WIp
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="1998" height="366" key="GridCell.Tab.1.bottom/0.27.2048.1125@0.27.2048.1125" timestamp="1587235881029" />
+    <state width="1998" height="366" key="GridCell.Tab.1.center" timestamp="1587235881028">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="1998" height="366" key="GridCell.Tab.1.center/0.27.2048.1125@0.27.2048.1125" timestamp="1587235881028" />
+    <state width="1998" height="366" key="GridCell.Tab.1.left" timestamp="1587235881028">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="1998" height="366" key="GridCell.Tab.1.left/0.27.2048.1125@0.27.2048.1125" timestamp="1587235881028" />
+    <state width="1998" height="366" key="GridCell.Tab.1.right" timestamp="1587235881029">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state width="1998" height="366" key="GridCell.Tab.1.right/0.27.2048.1125@0.27.2048.1125" timestamp="1587235881029" />
+    <state x="557" y="210" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1587137176274">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="557" y="210" width="924" height="691" key="Maven.ArtifactSearchDialog/0.27.2048.1125@0.27.2048.1125" timestamp="1587137176274" />
+    <state x="507" y="167" width="1024" height="852" key="SettingsEditor" timestamp="1587137957764">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="507" y="167" width="1024" height="852" key="SettingsEditor/0.27.2048.1125@0.27.2048.1125" timestamp="1587137957764" />
+    <state x="653" y="417" key="com.intellij.ide.util.TipDialog" timestamp="1587137785917">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="653" y="417" key="com.intellij.ide.util.TipDialog/0.27.2048.1125@0.27.2048.1125" timestamp="1587137785917" />
+    <state x="628" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587277203695">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="628" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027@0.23.1680.1027" timestamp="1587277203695" />
+    <state x="621" y="300" width="654" height="532" key="extract.method.dialog" timestamp="1587276968584">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="621" y="300" key="extract.method.dialog/0.23.1680.1027@0.23.1680.1027" timestamp="1587276968584" />
+    <state x="757" y="330" width="654" height="532" key="extract.method.dialog/0.27.2048.1125@0.27.2048.1125" timestamp="1587172000844" />
+    <state x="636" y="236" width="776" height="632" key="find.popup" timestamp="1587204590240">
+      <screen x="0" y="27" width="2048" height="1125" />
+    </state>
+    <state x="636" y="236" width="776" height="632" key="find.popup/0.27.2048.1125@0.27.2048.1125" timestamp="1587204590240" />
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/hackatum/server/ReservationRoute.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/hackatum/server/StoreRoute.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/hackatum/server/StoreRoute.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/hackatum/server/StoreRoute.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+>>>>>>> WIp
+</project>

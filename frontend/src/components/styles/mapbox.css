@@ -1,0 +1,18 @@
+#map-container {
+    overflow: visible;
+    width: 100%;
+}
+
+.navControlStyle {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    margin: 10px;
+}
+
+.geoControlStyle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 10px;
+}

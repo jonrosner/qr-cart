@@ -1,0 +1,17 @@
+
+.profilePic {
+    height: 1.5rem;
+}
+
+#profile-dropdown {
+    float: right;
+}
+
+.bg-healthy {
+    background-color: #cee5fe;
+}
+
+.logo-left {
+    width: 20pt;
+    height: 100%;
+}

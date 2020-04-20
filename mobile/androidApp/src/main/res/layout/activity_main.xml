@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   xmlns:tools="http://schemas.android.com/tools"
+                                                   android:id="@+id/container"
+                                                   android:layout_width="match_parent"
+                                                   android:layout_height="match_parent">
+
+    <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteY="0dp"
+            android:layout_marginRight="0dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginLeft="0dp"
+            app:layout_constraintLeft_toLeftOf="parent" />
+
+    <TextView android:layout_width="match_parent"
+              app:layout_constraintTop_toBottomOf="@id/toolbar"
+              android:layout_height="wrap_content"
+              android:text="Allowed new walk-in customers:"
+              android:textAlignment="center"
+              android:padding="10pt"
+              android:paddingBottom="15pt"
+              android:paddingTop="5pt"
+              android:id="@+id/title"
+              android:textSize="17pt" />
+
+    <TextView android:layout_width="match_parent"
+              app:layout_constraintTop_toBottomOf="@id/title"
+              android:layout_height="wrap_content"
+              android:text="0"
+              android:id="@+id/number_allowed_walk_in"
+              android:textAlignment="center"
+              android:padding="0pt"
+              android:textSize="30pt" />
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/buttons"
+                  android:orientation="horizontal"
+                  app:layout_constraintBottom_toTopOf="@id/info_box"
+                  app:layout_constraintTop_toBottomOf="@id/number_allowed_walk_in">
+        <Button android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/plusButton"
+                android:text="ENTER"
+                android:layout_weight="1"
+                android:drawableStart="@drawable/new_customer"
+                android:drawableTint="@color/white"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:textSize="16pt"
+                android:gravity="center_horizontal|top"
+                android:onClick="increaseNumber" />
+
+        <Button android:id="@+id/minusButton"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/customer_left"
+                android:drawableTint="@color/white"
+                android:onClick="decreaseNumber"
+                android:backgroundTint="@color/red"
+                android:text="Leave"
+                android:textSize="16pt"
+                android:gravity="center_horizontal|top"
+                tools:layout_editor_absoluteX="16dp"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="0dp"
+                  android:id="@+id/info_box"
+                  android:orientation="vertical"
+                  app:layout_constraintTop_toBottomOf="@id/buttons"
+                  app:layout_constraintBottom_toTopOf="@id/qr_button"
+                  app:layout_constraintVertical_weight="5"
+                  android:padding="3pt">
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="Customers inside"
+                  android:id="@+id/customers_inside"
+                  android:textSize="10pt"/>
+
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="Upcoming Reservations"
+                  android:id="@+id/upcoming_reservations"
+                  android:textSize="10pt"/>
+
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="Change since last sync"
+                  android:id="@+id/change_since_last_sync"
+                  android:textSize="10pt"/>
+
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/last_sync"
+                  android:text="Last sync"
+                  android:textSize="10pt"/>
+    </LinearLayout>
+
+    <Button android:id="@+id/qr_button"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Check reservation"
+            android:textSize="12pt"
+            android:drawableLeft="@drawable/ic_center_focus_weak_black_18dp"
+            android:drawableTint="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/info_box"
+            app:layout_constraintVertical_bias="0.0"
+            tools:layout_editor_absoluteX="0dp"
+            android:onClick="checkReservation"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

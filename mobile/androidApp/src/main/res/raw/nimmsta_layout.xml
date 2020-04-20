@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NimmstaLayout name="NIMMSTA Accessibility Scan Now Layout">
+    <device width="1.54" height="1.54" pxx="200" pxy="200">
+        <screen default="true" name="default">
+            <staticElements>
+                <batterypercent x="115" y="2" />
+                <battery y="6" />
+                <icon x="1" y="1">CONNECTED</icon>
+                <cell x="25" y="25" align="c" name="reservation">Reservation: </cell>
+                <icon x="51" y="53" name="scan_icon">scan_now</icon>
+                <cell x="10" y="120" align="l" name="allow_in">Allow in:</cell>
+                <button x="0" y="150" width="100" height="50" name="increment">        +</button>
+                <button x="100" y="150" width="100" height="50" name="decrement">        -</button>
+            </staticElements>
+        </screen>
+    </device>
+</NimmstaLayout>
