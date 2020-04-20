@@ -8,7 +8,7 @@ Winner of hackaTUM C0dev1d19 (COVID19-Edition)
 
 In times of Corona social distancing is key. We want to eliminate unnecessary queues in front of supermarkets & regulate the number of people in stores.
 
-To achieve this, we presenr QR-Cart. A full fletched reservation & ticketing system that at the same time allows a certain number of non-reservation customers, to fully maximize a store's legally allowed capacity during this time.
+To achieve this, we present QR-Cart. A full fletched reservation & ticketing system that at the same time allows a certain number of non-reservation customers, to fully maximize a store's legally allowed capacity during this time.
 
 ![alt text](images/system.jpg "The High Level System Design of QR-Cart")
 
