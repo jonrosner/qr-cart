@@ -1,9 +1,8 @@
 # QR-Cart
 
-<div style="text-align:center">
-    <h3>Winner of hackaTUM C0dev1d19 (COVID19-Edition)</h3>
-    <img src="images/logo.jpg" alt="QR-Cart">
-</div>
+Winner of hackaTUM C0dev1d19 (COVID19-Edition)
+
+![alt text](images/logo.jpg "QR-Cart")
 
 ## Idea
 
