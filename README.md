@@ -16,12 +16,6 @@ To achieve this, we present QR-Cart. A full fletched reservation & ticketing sys
 
 https://youtu.be/wHf8OxEpl3A?t=17394
 
-## Demo
-
-A demo of the website is available at http://andromeda.goma-cms.org:1338/
-
-To run the mobile app, go to the mobile subfolder and build the project.
-
 ## Project Structure
 
 The three components (backend, frontend, mobile) have their respective subfolders containing the source code and instructions for local development.
